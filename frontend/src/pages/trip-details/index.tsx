@@ -5,6 +5,7 @@ import { ImportantLinks } from "./important-links";
 import { Guests } from "./guests";
 import { Activities } from "./activities";
 import { DestinationAndDateHeader } from "./destination-and-date-header";
+import React from "react";
 
 export function TripDetailsPage(){
     const [isCreateActivityModalOpen, setIsCreateActivityModalOpen] = useState(false)
