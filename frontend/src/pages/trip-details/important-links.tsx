@@ -18,9 +18,9 @@ export function ImportantLinks(){
                         </div>
                         <div className="flex items-center justify-between gap-4">
                             <div className="space-y-1.5">
-                                <span className="block font-medium text-zinc-100">Reserva do AirBnB</span>
-                                <a href="#" className="block text-xs text-zinc-400 truncate hover:text-zinc-200 ">
-                                    https://www.airbnb.com.br/rooms/104700011
+                                <span className="block font-medium text-zinc-100">Melhores Praias do Rio de Janeiro</span>
+                                <a href="https://www.tripadvisor.com.br/Attractions-g303506-Activities-c61-t52-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html" target="blank" className="block text-xs text-zinc-400 truncate hover:text-zinc-200 ">
+                                https://www.tripadvisor.com.br/Attractions-g303506
                                 </a>
                             </div>
                             <Link2 className="text-zinc-400 size-5 shrink-0"/>
