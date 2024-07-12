@@ -46,6 +46,9 @@ Siga as instruções abaixo para executar o projeto localmente:
 
 5. Abra o navegador e acesse `http://localhost:5173` para visualizar a aplicação.
 
+6. Video da Aplicação:
+https://github.com/user-attachments/assets/837ff902-d7af-4e72-a63e-90b990750d11
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
@@ -53,3 +56,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Agradecimentos
 
 Agradecimentos especiais à Rocketseat pelo evento NLW Journey e a todos que contribuíram para o desenvolvimento deste projeto.
+
+
